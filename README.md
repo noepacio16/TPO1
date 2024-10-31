@@ -2,7 +2,7 @@
 **Proyecto en Unity - Caza de Ingredientes para la Cafetería**
 
 ## 1. Idea
-### La idea que planteo para este trabajo es armar una app con para una cafetería. En esta experiencia en la que se utilizará realidad aumentada, los usuarios podrán interactuar con el entorno buscando y recogiendo un café virtual. Por medio de la cámara de su celular, los clientes deberán encontrar y capturar el objeto escondido en el local (cuando toque en su pantalla el objeto, desaparecerá dando a entender que lo cazó).
+La idea que planteo para este trabajo es armar una app con para una cafetería. En esta experiencia en la que se utilizará realidad aumentada, los usuarios podrán interactuar con el entorno buscando y recogiendo un café virtual. Por medio de la cámara de su celular, los clientes deberán encontrar y capturar el objeto escondido en el local (cuando toque en su pantalla el objeto, desaparecerá dando a entender que lo cazó).
 
 ## 2. Relevamiento de requerimientos
 **Objetivos del Proyecto**
