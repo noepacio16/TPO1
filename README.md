@@ -24,14 +24,14 @@ Interacción: Captura de objetos 3D mediante clic sobre los objetos visibles en 
 ## 3. Problemas en Unity
 En el desarrollo del proyecto, tuve varias dificultades que afectaron la implementación. A continuación, detallo los problemas principales que encontré y los pasos que realicé para intentar resolverlos.
 
-**Integración de la Cámara
+**Integración de la Cámara**
 Al iniciar el proyecto, uno de los mayores desafíos fue integrar la cámara para visualizar el objeto en realidad aumentada (en este caso, una taza de café). En un primer momento, logré que la cámara funcionara en el celular, pero no mostraba el objeto deseado. 
 
-**Uso de Vuforia
+**Uso de Vuforia**
 Para mejorar la funcionalidad y lograr que el objeto (la taza de café) apareciera en la escena, decidí utilizar Vuforia, un software que permite crear aplicaciones de realidad aumentada en Unity. Para configurarlo, realicé los siguientes pasos:
 -Instalación y configuración de Vuforia en Unity: Seguí el proceso según la página ofical de Vuforia.
 -Creación de la License Key y Database: Generé una License Key en la página de Vuforia y configuré una base de datos con la imagen de referencia que permitiría a la cámara detectar el objeto. Esta imagen de referencia debía activar la visualización de la taza de café en la pantalla cuando se enfocara.
 
-**Problemas de Compilación y Ejecución
+**Problemas de Compilación y Ejecución**
 A pesar de configurar Vuforia, surgieron otros problemas:
 -Logré que el celular abriera la aplicación de Unity pero al probarla, no mostraba la cámara, por ende tampoco se veía el objeto.
